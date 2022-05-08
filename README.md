@@ -6,5 +6,5 @@
 - Part 2 contains the rest of the record i.e programs and algorithms.
 
 
-    - Click here to download Part 1 of record 👉 <a href="allen part 1 ds.docx"> front page</a>
+    - Click here to download Part 1 of record 👉 <a href="record part 1.docx"> front page</a>
     - Click here to download Part 2 of record 👉 <a href="allen part 2 ds.odt"> Part 2</a>
